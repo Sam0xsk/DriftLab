@@ -1,6 +1,6 @@
 <template>
   <nav class="menu">
-    <img src="/img/logo.jpg" class="logo"/>
+    <img src="/DriftLab/img/logo.jpg" class="logo"/>
 
     <button class="burger-menu" @click="isOpen = !isOpen">☰</button>
 
